@@ -65,3 +65,6 @@ ls non_file_existing 2> log.txt
 
 #### Piping
 We sent STDOUT and STDERR into files, but what we want is to be able to send outputs into other programs. This is very powerful :fire: and is called Piping :taco: Piping joins programs together
+
+#### Process management
+Running the instance of program is called a process
