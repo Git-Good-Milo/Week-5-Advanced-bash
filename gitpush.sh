@@ -12,5 +12,3 @@ git remote set-url origin git@https://github.com/Git-Good-Milo/Week-5-Advanced-b
 
 git symbolic-ref --short HEAD
 git push origin master
-
-read
